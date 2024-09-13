@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1. [Here](/files/201_report.md) should be the link to the file.
+excerpt: "Short description of portfolio item number 1. [Here](/files/class_diagram.pdf) should be the link to the file.
 <br/><img src='/images/201_game_compressed.mp4'>"
 collection: portfolio
 ---
