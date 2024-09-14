@@ -1,5 +1,5 @@
 ---
-title: "IE 306 Systems Simulation"
+title: "IE 306 Systems Simulation 3"
 collection: teaching
 type: "Undergraduate course"
 venue: "Bogazici University, Department of Industrial Engineering"
