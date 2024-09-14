@@ -1,9 +1,6 @@
 ---
-title: "OOP Game in Python"
-excerpt: "In this project... 
-<br/><img src='/images/201_game_compressed.mp4'>
-And [here](/files/class_diagram.pdf) is the link to the file."
+title: "Tackling Preferential Attachment"
+excerpt: "<br/><img src='/images/201_game_compressed.mp4'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  
+In this project I worked on an object-oriented game design, influenced by network theory. Namely, “preferential attachment” social network: where the influence of a person is dependent on ..... Some more comments... [here](/files/class_diagram.pdf) is the link to the class diagram, and [code is available here](https://github.com/metedb/Preferential-Attachment-Game.git).
