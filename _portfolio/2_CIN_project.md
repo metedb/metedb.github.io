@@ -20,4 +20,4 @@ tablish connections between the former approach. This new approach is then utili
 implications of CIN dynamics on population extinction, suggesting that higher missegregation rates
 enhance the likelihood of driving diploid-founded populations toward extinction, particularly those
 due to chromosomes known to suppress tumor growth.
-We have: <br/><img src='/images/extinction_prob_onc.png'> and <br/><img src='/images/extincion_prob_sup.png'>
+We have: <br/><img src='/images/extinction_prob_onc.png'> and <br/><img src='/images/extinction_prob_sup.png'>
