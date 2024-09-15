@@ -1,6 +1,6 @@
 ---
 title: "Simulating Hamiltonian Dynamics"
-excerpt: "Explanation here<br/><img src='/images/500x300.png'>"
+excerpt: "Explanation here<br/><img src='/images/HAM DYN.png'>"
 collection: portfolio
 ---
 
