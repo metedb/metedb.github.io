@@ -1,6 +1,6 @@
 ---
 title: "Quantifying DNA Damage on Cancer Mutations"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/tc-ner.png'>"
 collection: portfolio
 ---
 Cancer remains a complex and devastating disease, and the exact sources underlying many cancers are still not fully understood. Recent research suggests that genes within the human genome may exhibit asymmetric mutational patterns that can reveal the drivers of cancer of unknown etiology. This study extends an existing mathematical model of mutation accumulation by incorporating differential dynamics observed in genes, with the aim of rigorously assessing the performance of a proposed estimator designed to signal the extent of DNA damage driving cancer. By analyzing the estimator within our extended framework, we focus on the estimator's accuracy across various cancer-like scenarios characterised by malfunctions in different molecular mechanisms. Our findings indicate that, in most cases, the estimator is robust, particularly for cancers characterised by extreme impairments in these processes. However, we also report certain biological scenarios where the estimations may be misleading, highlighting the need for careful interpretation of asymmetry based approaches when applied to genomic data. Ultimately, this thesis aims to bridge two primarily biological studies through mathematical formalism to generate biological insights that may be significant for understanding cancer mechanisms.
