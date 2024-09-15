@@ -1,6 +1,6 @@
 ---
-title: "K Means Clsutering"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Clustering Algorithms"
+excerpt: "Explanation Here<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

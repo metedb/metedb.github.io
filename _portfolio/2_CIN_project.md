@@ -1,6 +1,6 @@
 ---
-title: "Modelling Numerical Chromosomal Instability"
-excerpt: "<br/><img src='/images/dominance_map.png'>"
+title: "Modelling Chromosome Instability"
+excerpt: "Click the above link for a detailed explanation.<br/><img src='/images/dominance_map.png'>"
 collection: portfolio
 ---
 Cancer cells frequently undergo chromosome missegregation events during mitosis,

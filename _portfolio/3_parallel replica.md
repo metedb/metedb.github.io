@@ -1,6 +1,6 @@
 ---
 title: "Parallel Replica Algorithm"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/trajectory_animation.mp4'>"
+excerpt: "Explanation Here<br/><img src='/images/trajectory_animation.mp4'>"
 collection: portfolio
 ---
 

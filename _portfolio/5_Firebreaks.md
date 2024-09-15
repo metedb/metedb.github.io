@@ -1,6 +1,6 @@
 ---
-title: "Firebreak Project"
-excerpt: "In this project... <br/><img src='/images/fire_break.mp4'>" 
+title: "Agent Based Model of Urban Fire Spread"
+excerpt: "Click the above link for a detailed explanation.<br/><img src='/images/fire_break.mp4'>" 
 collection: portfolio
 ---
 As urbanisation accelerates, the focus on fire mitigation in cities is receiving heightened attention from fire services and local governments. This report aims to critically evaluate preventative measures including distribution of fire-resistant building materials, firebreaks and firefighter strategies, to inform these agencies of how they can best implement measures to reduce the spread and impact of fires. Throughout this investigation, we utilise cellular automata and agent based modelling to simulate fire spread in a two-dimensional space, measuring the size and cost of fire damage as a metric of analysis. Our model suggests that the optimal proportion of fire-resistant material is 60\%, distributed throughout the city, and that a combination of straight and diagonal firebreaks across the city is the best configuration to minimise fire spread. We also identified that, while all firefighter strategies reduced the spread of fire, units working individually and attending their nearest fire extinguished fires fastest on average. 
