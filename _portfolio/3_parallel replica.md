@@ -7,6 +7,9 @@ excerpt: "The Parallel Replica Method (ParRep) is a computational technique desi
 4. **Time Acceleration:** The simulation time is effectively accelerated by multiplying the short replica time by the number of replicas, simulating longer timescales.
 This method allows for the efficient simulation of rare events without modifying the potential energy surface, making it highly effective for studying processes like phase transitions or defect migrations. 
 
-In the image below, the system begins at the top of the energy landscape and undergoes random motion. Over time, it becomes trapped in the circled region, representing a metastable state. ParRep helps accelerate the process of escaping such states, which would take much longer using traditional molecular dynamics methods. <br/><img src='/images/trajectory_animation.mp4'>"
+In the image below, the system begins at the top of the energy landscape and undergoes random motion. Over time, it becomes trapped in the circled region, representing a metastable state. ParRep helps accelerate the process of escaping such states, which would take much longer using traditional molecular dynamics methods. <br/><img src='/images/trajectory_animation.mp4'>
+
+we also conducted tests on parallel approaches, used Julia, benchmarking to find efficient simulations, high performance computing etc etc etc
+"
 collection: portfolio
 ---

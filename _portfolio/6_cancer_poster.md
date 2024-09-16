@@ -1,9 +1,11 @@
 ---
 title: "Academic Poster on Site Frequency Spectra in Tumours"
-excerpt: "In a recent paper, the authors explored the site frequency spectrum (SFS) in cancer genomics, focusing on exponentially growing cell populations. Traditionally, the SFS has been well-studied in constant-sized populations with neutral mutations, but this research extends the analysis to tumor growth using stochastic branching processes.
+excerpt: "In a recent study, researchers examined how mutations spread within growing tumors. They focused on a genetic concept called the **site frequency spectrum (SFS)**, which helps scientists understand how common or rare certain mutations are within a population. While this concept has been widely studied in populations that stay the same size, this research looked at tumors, which are constantly growing and changing.
 
-The authors derived exact expressions for the expected SFS in two scenarios: for cells with an infinite line of descent and for the entire population. They looked at both a fixed-time spectrum and a fixed-size spectrum, offering insights into how mutation rates, cell birth, and cell death rates affect the shape of the spectrum. Specifically, they showed a transition between a 1/j² and 1/j power-law spectrum, depending on the viability of the cells, and discussed how these patterns can help estimate mutation rates and the ratio of cell death to birth rates.
+The researchers used mathematical models to predict what the mutation patterns (or SFS) would look like in a growing tumor. They considered two key factors: the **mutation rates** and the balance between **cell growth and cell death**. By studying the SFS, they could identify how these factors shape the genetic landscape of a tumor. Their findings showed that the patterns of mutations could change significantly based on how healthy or viable the tumor cells are.
 
-I created a poster summarizing this work, focusing on how these findings can contribute to understanding tumor dynamics and potentially inform research on other exponentially growing populations. The [original paper is available here](https://pubmed.ncbi.nlm.nih.gov/34560155/).<br/><img src='/files/poster.pdf'>"
+I created a poster summarizing this research, highlighting how these findings help us better understand the way tumors evolve. The insights gained could also apply to other fast-growing populations, providing useful tools for estimating mutation rates and the balance between cell death and growth in various biological contexts.
+
+You can check out the [original paper here](https://pubmed.ncbi.nlm.nih.gov/34560155/).<br/><img src='/files/poster.pdf'>"
 collection: portfolio
 ---
