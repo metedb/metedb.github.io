@@ -24,7 +24,7 @@ author:
   avatar           : "pp.jpeg"
   name             : "Mete Dibi"
   pronouns         : # example: "she/her"  
-  bio              : "MSc Graduate"
+  bio              : #"MSc Graduate"
   location         : "Edinburgh, Scotland, UK"
   employer         : #"Red Brick University"
   uri              : # URL
