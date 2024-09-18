@@ -1,10 +1,8 @@
 ---
 title: "Modelling Chromosome Instability"
-excerpt: "Click the above link for a detailed explanation.<br/><img src='/images/dominance_map.png'>"
+excerpt: "Click the above link for a detailed explanation of the project.<br/><img src='/images/dominance_map.png'>"
 collection: portfolio
 ---
-Cancer cells frequently undergo chromosome missegregation events during mitosis,
-leading to uneven chromosome distribution among cells and increasing the heterogeneity of the tumor
-population; this phenomenon is known as Chromosomal Instability (CIN). Supervised by Dr. Tibor Antal, I worked in a group project and studied the variations of copy number alterations using stochastic modelling approaches and simulations. On top of an existing stochastic model of such variations, our group hypothesised a novel approach by incorporating a Multi-type branching process into CIN studies, a framework frequently used for studying expanding cell populations. We achieved significant insights by quantifying tumour extinction probabilities and karyotype variations in dependence to real life parameters such as the genic characteristic of the chromosome, or the instability rate. Furthermore, we showed the interplay between tumour heterogeneity and preservation of oncogenic genes.
+Cancer cells often missegregate chromosomes during mitosis, leading to uneven distribution and increased variability within the tumor, a phenomenon known as Chromosomal Instability (CIN). Under the supervision of Dr. Tibor Antal, I participated in a group project that used stochastic modeling and simulations to study these variations. We extended an existing model by incorporating a Multi-type Branching Process, a framework used to study expanding cell populations. This allowed us to quantify tumour extinction probabilities and variations in chromosome copies, using real-world factors like chromosome characteristics and instability rates. Additionally, we explored how tumor diversity is related to the preservation of cancer-driving genes, shedding light on the evolutionary nature of cancer.
 <br/><img src='/images/extinction_prob_onc.png'>  
 <br/><img src='/images/extinction_prob_sup.png'>
