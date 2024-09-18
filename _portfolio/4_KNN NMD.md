@@ -1,6 +1,6 @@
 ---
 title: "Clustering Algorithms"
-excerpt: "Click the above link for a detailed explanation.<br/><img src='/images/KNN.png'>"
+excerpt: "Click the above link for a detailed explanation of the project.<br/><img src='/images/KNN.png'>"
 collection: portfolio
 ---
 K-Means is one of the simplest and most popular clustering algorithms. It works by dividing data points into groups (or clusters) based on their similarity. The algorithm starts by selecting a few initial "centroids" (central points), then assigns each data point to the nearest centroid. Once all points are assigned, the centroids are recalculated, and the process repeats until the clusters no longer change. K-Means is fast and works well for data that forms clear, compact groups, making it ideal for problems like image compression or customer segmentation.
